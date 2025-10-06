@@ -1,7 +1,7 @@
 Bibliotheksverwaltung (Kotlin Konsolenanwendung)
 
 Ein einfaches Kotlin-Konsolenprogramm zur Verwaltung von Büchern in einer Bibliothek. Das Projekt wird in IntelliJ IDEA entwickelt und ausgeführt.
-1. Funktionen
+1. **Funktionen**
 
  Buch hinzufügen
 
@@ -13,7 +13,7 @@ Ein einfaches Kotlin-Konsolenprogramm zur Verwaltung von Büchern in einer Bibli
 
  Alle Bücher auflisten
 
-2.  Voraussetzungen
+2.  **Voraussetzungen**
 
 IntelliJ IDEA (Community oder Ultimate)
 
@@ -21,7 +21,7 @@ Kotlin Plugin (in IntelliJ meist schon vorinstalliert)
 
 JDK 11 oder neuer 
 
-3. Projekt einrichten in IntelliJ IDEA
+3. **Projekt einrichten in IntelliJ IDEA**
 
 Neues Projekt erstellen
 
@@ -43,7 +43,7 @@ Wähle File und nenne sie z. B. Main.kt
 
 Füge deinen Kotlin-Code (aus deiner vorherigen Nachricht) in diese Datei ein
 
-4. Programm ausführen
+4. **Programm ausführen**
 
 Klicke auf das grüne Dreieck links neben fun main() oder
 
@@ -51,7 +51,7 @@ Nutze das Menü: Run > Run 'MainKt'
 
 
 
-5.  Bedienung (CLI-Menü)
+5.  **Bedienung (CLI-Menü)**
 
 Nach dem Start erscheint ein Menü im Terminal:
 
@@ -62,6 +62,5 @@ Nach dem Start erscheint ein Menü im Terminal:
 5. List Books
 6. Exit
 Choice:
-
 
 Gib eine Zahl ein und folge den Eingabeanweisungen.
